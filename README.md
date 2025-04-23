@@ -95,10 +95,3 @@ For more ML/AI projects, check out my GitHub!
 
 
 ---
-
-### Optional:
-To really enhance it:
-- Add plot screenshots in a `docs/` folder (`sample_acc_plot.png`, `sample_loss_plot.png`)
-- Convert each `.py` to Jupyter Notebook for easier browsing on GitHub
-- Include `.h5` model weights if you want users to load pretrained models
-
