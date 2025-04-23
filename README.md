@@ -11,7 +11,7 @@ Make sure you have the following Python libraries installed:
 ```bash
 pip install keras tensorflow numpy matplotlib opencv-python
 
-📁 Projects Included
+## 📁 Projects Included
 1. 🧱 CNN with Functional API
 This model uses the Keras Functional API to build a Convolutional Neural Network (CNN) with the following architecture:
 
@@ -21,7 +21,7 @@ Trained for 3 epochs on MNIST
 
 Includes accuracy and loss plots
 
-📈 Features:
+## 📈 Features:
 Uses Adam optimizer
 
 Plots training/validation accuracy & loss
@@ -43,9 +43,9 @@ Resize each image to (100, 200)
 
 Normalize pixel values to [0, 1]
 
-📁 File: image_loader_custom.py
+## 📁 File: image_loader_custom.py
 
-⚠️ Note: The script assumes custom .jpg images are stored in D:/sample_dataset/test/. You can change the path as needed.
+## ⚠️ Note: The script assumes custom .jpg images are stored in D:/sample_dataset/test/. You can change the path as needed.
 
 3. 🧠 Fully Connected Neural Network (Sequential API)
 This project uses Keras Sequential API to build a fully connected feedforward network (MLP) with dropout regularization.
