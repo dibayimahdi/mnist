@@ -93,9 +93,6 @@ This project is intended for educational purposes. Feel free to use, modify, and
 Mahdi — 2021
 For more ML/AI projects, check out my GitHub!
 
-yaml
-Copy
-Edit
 
 ---
 
